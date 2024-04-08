@@ -16,6 +16,9 @@ Let’s say you have some extra money. Now, instead of keeping it under your mat
 
 
 ## Task-1 : EDA using Python
+
+Used Pandas, Matplotlib and seaborn to analyze the investment dataset.
+
 ## Task-2: PowerBI Dashboard
 **Data Preprocessing**
 
